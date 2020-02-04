@@ -63,6 +63,7 @@
 - Johanharry
 - Sian Murray 
 - Menarul Alam
+- [Heesang Whang](https://github.com/hwhang0917)
 - Keri Goltz
 - itakenaps
 - Sreemoyee Chowdhury (https://github.com/haikubabe)
@@ -19942,3 +19943,4 @@ rehan
 - [Huan Phan](https://github.com/phanthaihuan)
 - [Luke Moresea] (https://github.com/moreselh)
 - [Philip Obiorah](https://github.com/philipobiorah)
+- [Marc Delaunay] (https://github.com/DelaMarc)
