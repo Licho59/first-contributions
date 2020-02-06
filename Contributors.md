@@ -1,4 +1,5 @@
-﻿# Contributors
+# Contributors
+- Bill E
 - Vignesh Deivanayagam(https://github.com/superzaiyan/)
 - Chris Otter(https://github.com/cotter3/)
 - Qiang Qin(https://github.com/qinqiangdavid)
@@ -6,21 +7,29 @@
 - Nazri Yahya 
 - Nicholas Donovan (https://github.com/NicholaiThe3rd)
 - Jeff Lu (https://github.com/HiIamJeff)
+- AmujoDotun (https://github.com/AmujoDotun)
 - Amin Elhami (https://github.com/Amin747)
 - Vojtech Vanek (https://github.com/Vanevo00)
 - Abby Lemon (https://github.com/abbylemon)
 - Apiwat Chuaphan (https://github.com/apiwatc)
 - Jai Mistry (https://github.com/jaimistry)
 - Andreas Eibert
+- Jon Henley
+- Rachael Smith (https://github.com/rachael-smith)
 -EdwinVanLeth
 -Mike
 - Yeongyoon Park (https://github.com/ypark66)
 -Muhammad bin fayyaz (https://github.com/MuhammadPen)
 -Rachel
+- Youssef HAJARI (https://github.com/youssefhajari)
 - James Tufarelli (https://github.com/Minituff)
 - Lasse No
+- UTQNG
+Will-C
 - Nikhil joshi
 - Michael Geletka
+- Jo Peng (https://github.com/jopeng5)
+- Bradley Peterson (https://github.com/bpetersonisme)
 - Ty Jenkins (https://github.com/Yujiman85)
 - Tom Holmes (https://github.com/tholmes59)
 - Dax Patel (https://github.com/letapxad)
@@ -40,6 +49,7 @@
 - Ka Chingsubam (https://github.com/kachingsubam)
 - Jhamere Wilson (https://github.com/JhamereWilson)
 - Minuth Prom (https://github.com/minuth)
+Derek Leach
 - Sanyam Mittal (https://github.com/sanyam142mittal)
 - Wan Nasrul Irfan (https://github.com/TehHatrix)
 - Eric Maddox (https://github.com/maddtech)
@@ -59,6 +69,7 @@
 - Mahmoud Osman (https://github.com/mosman-dev)
 - Camila Gomez Schrader (https://github.com/camila0216)
 - Sakshi Gupta
+- Shannon Murphy
 - Ryan Sneesby
 - Johanharry
 - Sian Murray 
@@ -86,6 +97,7 @@
 - Son Thach (https://github.com/hson011011)
 - James Myers
 - Syed Aslam
+Deepika Padmanabhan
 - DuongDao daokiem (https://github.com/duongkstn)
 - Alireza Akhoundi
 - Paul Dill (https://github.com/Dillweed5446)
@@ -246,6 +258,7 @@
 - Catherine Thomsen
 - Marc Fitzgerald
 - Jui Pradhan
+- Andros Kalou
 - madhm88
 - Sean Kehoe (https://github.com/Egglton)
 - Richmond Dzoku
@@ -421,6 +434,7 @@
 - [Archer Fabling](https://github.com/Archie4575)
 - [Ahmed Zahran]
 - [Tony Anzalone]
+- [Benjamin Fawcett](https://github.com/benjaminfawcett)
 - [Heath Robinson](https://github.com/heathexer)
 [Debaditya Dutta](https://github.com/Deb-28)
 - [Dirk Kadijk](https://github.com/dirkkadijk)
@@ -429,6 +443,7 @@
 - [Amarachi Iwuh](https://github.com/amarachi97)
 - [Anurag Volety](https://github.com/AnuragVolety)
 - [Youngju Chae](https://github.com/dn1470)
+- [Brian Rui](https://github.com/RuiBrian)
 - [Gary Heffernan](https://github.com/garyHeffernan)
 - [Alejandro Garcia](https://github.com/agc133)
 - [Sachin Mahesh](https://github.com/cyrus303)
@@ -2178,6 +2193,7 @@ saad hassan (https://github.com/saadhassan99)
 - linsurii
 - [mousalerci} (https://github.com/mousalerci)
 - [Prakhar Uniyal](https://github.com/PrakharUniyal)
+- [Allie Landry] (https://github.com/alextylr)
 - [tommy](https://github.com/thoyvo/)
 - [dylan](https://github.com/dhc-sapphire)
 - [Shanto Mathew](https://github.com/shanto12)
@@ -6958,6 +6974,7 @@ Aman Panjwani
 - [JuanJoseGonGi](https://github.com/JuanJoseGonGi)
 - [Sai Satwik Kuppili](https://github.com/SaiSatwik)
 - [Taruchit Goyal](https://github.com/taruchit)
+- [Rolf Kristian Andreassen](https://github.com/RolfKr)
 - [bogo-sort](https://github.com/bogo-sort)
 - [Bhuvanachandu](https://github.com/bhuvi99)
 - [Truong Nguyen Anh Hoang](https://github.com/Lucifer99Black)
@@ -7216,6 +7233,7 @@ Aman Panjwani
 - [Haoda Wang](https://github.com/h313)
 - [Peter Treitler](https://github.com/ptreitler)
 - [Tushar](https://github.com/tusharc2n)
+- [Omoruyi Omofonmwan](https://github.com/ACompleteNoobSmoke)
 -   Abi Castro
 - Steve Johnson
 - [<span style="color: green;">Hunter Rancourt</span>](https://github.com/skwid138)
@@ -7834,6 +7852,7 @@ Aman Panjwani
 - [Michael Johansson](https://github.com/mickethespike)
 - [Dennnis Allan Barba](https://github.com/dennisallanbarba)
 - [Ayush Malviya](https://github.com/ayushmalviya27)
+- saisunku
 - [Eldo Greshard](https://github.com/karmael)
 - [nancynh](https://github.com/nancynh)
 - [RahulGuptaNitro](https://github.com/RahulGuptaNitro)
@@ -10970,6 +10989,7 @@ Aman Panjwani
 - [Ocean](https://github.com/ocean0212)
 - [Francis](https://github.com/borbefg)
 - [WanWan](https://github.com/lf2com)
+- [Filipe]
 - [MikaGrootenboer](https://github.com/MikaGrootenboer)
 - [mariannems](https://github.com/mariannems)
 - [Emina Zolota](https://github.com/eminazolota)
@@ -15127,6 +15147,7 @@ macdara-dev
 - [Elizabeth Burke](https://github.com/eburkee)
 - [dave7ter](https://github.com/dave7ter)
 - [ikke09](https://github.com/ikke09)
+- [Cameron Hattendorf](https://github.com/Camboridesbikes)
 - [Adrian Thinnyun](https://github.com/athinnyun)
 - [Kjell Fjeldsaunet](https://github.com/kjell-fjeldsaunet)
 - [Dylan Sharhon](https://github.com/dsharhon)
@@ -19166,6 +19187,7 @@ Mário Baltazar
 - [Simon Rossinskiy](https://github.com/simross/)
 - [Shane Lonergan](https://github.com/shanelonergan)
 - [Cristian Malacarne huff](https://github.com/cristianhuff)
+- Martin Cernohorsky
 - Matheus Azzi
 - Matheus Spaniol
 - Ankit Beniwal (https://github.com/pagalprogrammer)
@@ -19585,6 +19607,7 @@ rehan
 - [zerx](https://github.com/zerx)
 - [Yigit G](https://github.com/ygoc95)
 - [Aleksey94Dan](https://github.com/Aleksey94Dan)
+- [SnowCrashOverride](https://github.com/SnowCrashOverride)
 - [Rupesh Patil](https://github.com/rupeish)
 - [Samuel Lamb](https://github.com/SentientSam)
 - [WesleyCSJ](https://github.com/wesleycsj)
@@ -19944,3 +19967,9 @@ rehan
 - [Luke Moresea] (https://github.com/moreselh)
 - [Philip Obiorah](https://github.com/philipobiorah)
 - [Marc Delaunay] (https://github.com/DelaMarc)
+- [Philipp Zech] (https://github.com/lokalmatador)
+- [Akey Edm] (https://github.com/Akey-Edm)
+- [Andre Y Pegov] (https://github.com/KislyMonk/)
+- [Laks Castro :D] (https://github.com/LaksCastro/)
+- [Alan J Correa] (https://github.com/thealanjason/)
+  [Kristopher Doidge] (https://github.com/kris-doidge)
